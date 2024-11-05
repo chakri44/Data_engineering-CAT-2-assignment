@@ -1,0 +1,51 @@
+CustomerID,FeedbackChannel,Rating,Comment,Date
+C10001,Email,5,"Loved the service, very prompt and efficient!",01-11-2024
+C10002,Social Media,3,Good but could be faster in processing.,01-11-2024
+C10003,Survey,4,Satisfied with the product quality.,01-11-2024
+C10004,Email,2,"Long wait time, not happy.",02-11-2024
+C10005,Social Media,5,"Amazing experience, will recommend to friends!",02-11-2024
+C10006,Survey,1,"Very disappointed, the product broke after one use.",02-11-2024
+C10007,Email,4,Helpful customer support.,03-11-2024
+C10008,Social Media,3,"Average service, nothing special.",03-11-2024
+C10009,Survey,5,"Excellent quality, worth the price!",03-11-2024
+C10010,Email,2,Had a poor experience with support staff.,04-11-2024
+C10011,Social Media,4,Fast delivery and quality product.,04-11-2024
+C10012,Survey,3,Okay but can be better in terms of response time.,04-11-2024
+C10013,Email,5,Love how easy it was to get assistance!,05-11-2024
+C10014,Social Media,2,Product was not as expected.,05-11-2024
+C10015,Survey,3,Satisfactory but room for improvement.,05-11-2024
+C10016,Email,1,"Unresponsive support, very frustrating.",06-11-2024
+C10017,Social Media,5,Exceeded my expectations!,06-11-2024
+C10018,Survey,2,"Disappointed, issues with installation.",06-11-2024
+C10019,Email,4,"Quick resolution, satisfied.",07-11-2024
+C10020,Social Media,1,Poor customer service.,07-11-2024
+C10021,Survey,5,"Fantastic product, highly recommend!",07-11-2024
+C10022,Email,3,Good but not excellent.,08-11-2024
+C10023,Social Media,4,Product quality is top-notch!,08-11-2024
+C10024,Survey,2,"Delay in delivery, not happy.",08-11-2024
+C10025,Email,5,"Great service, keep it up!",09-11-2024
+C10026,Social Media,3,Mixed feelings about the experience.,09-11-2024
+C10027,Survey,4,"Satisfied, no issues faced.",09-11-2024
+C10028,Email,2,Needs improvement in response time.,10-11-2024
+C10029,Social Media,5,"Love the product, fantastic quality.",10-11-2024
+C10030,Survey,1,"Terrible experience, won't recommend.",10-11-2024
+C10031,Email,4,Quick and helpful service.,11-11-2024
+C10032,Social Media,2,Not satisfied with the product.,11-11-2024
+C10033,Survey,3,"Average experience, needs more attention to detail.",11-11-2024
+C10034,Email,5,"Very satisfied, thanks for the great service!",12-11-2024
+C10035,Social Media,4,"Good overall, no complaints.",12-11-2024
+C10036,Survey,2,Expected better quality for the price.,12-11-2024
+C10037,Email,1,Extremely disappointed with customer service.,13-11-2024
+C10038,Social Media,5,"Superb product, exceeded expectations!",13-11-2024
+C10039,Survey,3,"Decent, but can improve on features.",13-11-2024
+C10040,Email,4,"Nice experience, will use again.",14-11-2024
+C10041,Social Media,3,"Product was okay, nothing extraordinary.",14-11-2024
+C10042,Survey,5,Excellent product and support!,14-11-2024
+C10043,Email,2,Very slow support response.,15-11-2024
+C10044,Social Media,5,Highly impressed with the product!,15-11-2024
+C10045,Survey,1,"Poor quality, not worth the price.",15-11-2024
+C10046,Email,4,Helpful and polite staff.,16-11-2024
+C10047,Social Media,3,"Average experience, could be better.",16-11-2024
+C10048,Survey,5,"Superb service, very happy!",16-11-2024
+C10049,Email,2,Unsatisfied with response time.,17-11-2024
+C10050,Social Media,4,"Good product, fast delivery.",17-11-2024
